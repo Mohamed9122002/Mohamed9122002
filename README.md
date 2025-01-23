@@ -41,7 +41,8 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Data Structures And Algorithms
-
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00A98F?style=flat&logo=buffer&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FABF4B?style=flat&logo=code&logoColor=white)
 
 ### Tools & Other
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
