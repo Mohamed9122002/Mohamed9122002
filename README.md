@@ -2,6 +2,7 @@
 
 I'm a passionate **Backend Developer** with a strong focus on building scalable, efficient, and secure applications. My journey in software engineering is driven by a deep curiosity for database internals, system design, and AI-powered solutions. I thrive on solving complex problems and delivering robust backend systems that power seamless user experiences.
 ---
+
 ## About Me
 
 - 🎓 Final-year **Software Engineering** student, specializing in backend development.
@@ -10,11 +11,13 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 - ✨ Constantly learning and sharing insights through educational content and programming roadmaps.
   
   ---
+  
 ## My Focus Areas
 - **Backend Development**: Building scalable and efficient systems using **C#**, **ASP.NET Core**, **Angular**, and more.
 - **Database Systems**: Deep expertise in query optimization, **SQL**, and architectural best practices.
   
   ---
+  
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
