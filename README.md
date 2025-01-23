@@ -51,11 +51,8 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-
 --- 
-
 ## Communication
-
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) (+201098132487)
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)  ( mohamedmahamoudali912@gmail.com )
 
