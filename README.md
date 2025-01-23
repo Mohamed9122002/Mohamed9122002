@@ -2,7 +2,7 @@
 
 I'm a passionate **Backend Developer** with a strong focus on building scalable, efficient, and secure applications. My journey in software engineering is driven by a deep curiosity for database internals, system design, and AI-powered solutions. I thrive on solving complex problems and delivering robust backend systems that power seamless user experiences.
 
-----
+---
 ## About Me
 
 - 🎓 Final-year **Software Engineering** student, specializing in backend development.
@@ -10,18 +10,12 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 - 📊 Enthusiast of **data architecture**, always eager to optimize and structure data efficiently.
 - ✨ Constantly learning and sharing insights through educational content and programming roadmaps.
 - 
-  ----
+  ---
   
 ## My Focus Areas
 - **Backend Development**: Building scalable and efficient systems using **C#**, **ASP.NET Core**, **Angular**, and more.
 - **Database Systems**: Deep expertise in query optimization, **SQL**, and architectural best practices.
-
-  ----
-## Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-----
+  ---
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -50,4 +44,10 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-9B4F96?style=flat&logo=testinglibrary&logoColor=white)
+---
+## Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 
