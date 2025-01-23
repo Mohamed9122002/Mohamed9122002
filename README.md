@@ -1,6 +1,7 @@
 ## Hi there, I'm Mohamed Mahmoud Ali 👋
 
 I'm a passionate **Backend Developer** with a strong focus on building scalable, efficient, and secure applications. My journey in software engineering is driven by a deep curiosity for database internals, system design, and AI-powered solutions. I thrive on solving complex problems and delivering robust backend systems that power seamless user experiences.
+
 ----
 ## About Me
 
@@ -10,10 +11,13 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 - ✨ Constantly learning and sharing insights through educational content and programming roadmaps.
 - 
   ----
+  
 ## My Focus Areas
 - **Backend Development**: Building scalable and efficient systems using **C#**, **ASP.NET Core**, **Angular**, and more.
 - **Database Systems**: Deep expertise in query optimization, **SQL**, and architectural best practices.
+
   ----
+  
   ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
