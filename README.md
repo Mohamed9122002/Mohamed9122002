@@ -17,8 +17,8 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 - **Database Systems**: Deep expertise in query optimization, **SQL**, and architectural best practices.
 
   ----
-  
-  ## Socials
+## Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 ----
