@@ -1,7 +1,9 @@
 ## Hi there, I'm Mohamed Mahmoud Ali 👋
 
 I'm a passionate **Backend Developer** with a strong focus on building scalable, efficient, and secure applications. My journey in software engineering is driven by a deep curiosity for database internals, system design, and AI-powered solutions. I thrive on solving complex problems and delivering robust backend systems that power seamless user experiences.
+
 ---
+
 ## About Me
 
 - 🎓 Final-year **Software Engineering** student, specializing in backend development.
