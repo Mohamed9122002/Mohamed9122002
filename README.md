@@ -24,7 +24,10 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
+### Concepts
 ![OOP](https://img.shields.io/badge/-OOP-239120?style=flat&logo=java&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design Patterns-239120?style=flat&logo=java&logoColor=white)
 ---
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
