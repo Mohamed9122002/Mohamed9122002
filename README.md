@@ -27,7 +27,7 @@ I'm a passionate **Backend Developer** with a strong focus on building scalable,
 ---
 ### Concepts
 ![OOP](https://img.shields.io/badge/-OOP-239120?style=flat&logo=java&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/-Design Patterns-239120?style=flat&logo=java&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-239120?style=flat&logo=java&logoColor=white)
 ---
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
